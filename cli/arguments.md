@@ -1,3 +1,5 @@
+# [Arguments](arguments.md)
+
 features | php | nodejs
 --- | --- | ---
 *Argument* | `$argv` | `process.argv`
