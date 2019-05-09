@@ -1,4 +1,4 @@
 features | php | nodejs
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Argument* | `$argv` | `process.argv`
+Get options | `getopt()` | ???
